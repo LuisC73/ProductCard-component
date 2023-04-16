@@ -10,7 +10,7 @@
 
 ## Overview
 
-![Design preview for the Intro section with dropdown navigation coding challenge]("/assets/design/desktop-preview.jpg")
+![Design preview for the Intro section with dropdown navigation coding challenge](/assets/design/desktop-preview.jpg)
 
 ### Built With
 
