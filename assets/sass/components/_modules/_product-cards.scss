@@ -2,8 +2,7 @@
 @use "../_utilities/mixins" as *;
 
 .productCards {
-  width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   @include flex(center, center, column, 0);
 
   &__card {
