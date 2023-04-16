@@ -1,0 +1,8 @@
+@use "../_utilities/variables" as *;
+@use "../_utilities/mixins" as *;
+
+body {
+  background-color: $color-secundary;
+  overflow-x: hidden;
+  @include title($fontFamilyOne);
+}
